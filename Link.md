@@ -1,2 +1,2 @@
 # Link documentazione API
-- [Aulab 10 API](https://aulab.it/notizia/370/10-utili-api-che-amerai)
+- [Info generiche API C#](https://medium.com/@codebob75/creating-and-consuming-apis-in-net-c-d24f9c414b96)
